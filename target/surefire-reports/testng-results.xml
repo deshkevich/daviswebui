@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test UI on account units page" duration-ms="14159" started-at="2016-06-23T17:26:03Z" finished-at="2016-06-23T17:26:17Z">
+    <groups>
+    </groups>
+    <test name="Test UI on account units page" duration-ms="14159" started-at="2016-06-23T17:26:03Z" finished-at="2016-06-23T17:26:17Z">
+      <class name="AccountUnitTest">
+        <test-method status="PASS" signature="openBrowserAndLogin()[pri:0, instance:AccountUnitTest@2133c8f8]" name="openBrowserAndLogin" is-config="true" duration-ms="6474" started-at="2016-06-23T14:26:03Z" finished-at="2016-06-23T14:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowserAndLogin -->
+        <test-method status="PASS" signature="temperatureMeasurementSystemChanging()[pri:0, instance:AccountUnitTest@2133c8f8]" name="temperatureMeasurementSystemChanging" duration-ms="6493" started-at="2016-06-23T14:26:10Z" description="Check if temperature measurement change saved" finished-at="2016-06-23T14:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- temperatureMeasurementSystemChanging -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:AccountUnitTest@2133c8f8]" name="cleanUp" is-config="true" duration-ms="1183" started-at="2016-06-23T14:26:16Z" finished-at="2016-06-23T14:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- AccountUnitTest -->
+    </test> <!-- Test UI on account units page -->
+  </suite> <!-- Test UI on account units page -->
+</testng-results>
