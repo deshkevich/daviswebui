@@ -3,7 +3,7 @@
 <suite name="Test UI on account units page" thread-count="1">
     <test name="Test UI on account units page">
         <classes>
-            <class name="AccountUnitTest"/>
+            <class name="suits.AccountUnitTest"/>
         </classes>
     </test>
 </suite>
